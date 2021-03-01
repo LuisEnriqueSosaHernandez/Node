@@ -1,0 +1,8 @@
+[33m[nodemon] 2.0.6[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node start index.js`[39m
+servidor corriendo en puerto 3000
+DB online
+¨Desea terminar el trabajo por lotes (S/N)? 
